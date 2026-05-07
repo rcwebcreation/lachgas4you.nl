@@ -1,0 +1,10 @@
+# https://www.robotstxt.org/
+User-agent: *
+Allow: /
+
+# Geen blokken op statische pagina assets
+Allow: /style.css
+Allow: /script.js
+Allow: /assets/
+
+Sitemap: https://lachgas4you.nl/sitemap.xml
